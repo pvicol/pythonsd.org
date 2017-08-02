@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2016-09-04T00:00:00-07:00</updated><entry><title>September Newsletter</title><link href="http://pythonsd.org/september-newsletter-2016.html" rel="alternate"></link><updated>2016-09-04T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2016-09-04:september-newsletter-2016.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://www.pythonsd.org/" rel="alternate"></link><link href="http://www.pythonsd.org/feeds/all.atom.xml" rel="self"></link><id>http://www.pythonsd.org/</id><updated>2016-09-04T00:00:00-07:00</updated><entry><title>September Newsletter</title><link href="http://www.pythonsd.org/september-newsletter-2016.html" rel="alternate"></link><published>2016-09-04T00:00:00-07:00</published><updated>2016-09-04T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2016-09-04:/september-newsletter-2016.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;Our meetup locations are a bit in flux at the moment because of changes
 at the Ansir Innovation Center. Please check the meetup pages themselves
 for the most up-to-date information.&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/233524687/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Our meetup locations are a bit in flux at the moment because of changes
+at the Ansir Innovation Center. Please check the meetup pages themselves
+for the most up-to-date information.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/233524687/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
 San Diego PyLadies and SD Python are continuing the Saturday study group.
 This will be our last time at the Convoy Street location 
@@ -27,7 +34,7 @@ building is an active datacenter, &lt;strong&gt;photo ID is required&lt;/strong&
 We are actively seeking speakers for five to ten minute lightning talks.
 Please comment on the event in Meetup if you're interested in speaking.&lt;/p&gt;
 &lt;h2&gt;News&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="https://www.scalematrix.com/"&gt;ScaleMatrix&lt;/a&gt; has become a sponsor San Diego Python by hosting our
 monthly meetup. ScaleMatrix is a local hybrid service provider of cloud,
 colocation, disaster recovery, storage, and managed IT services. These
@@ -40,13 +47,13 @@ Synthetic Genomics, Inc. is the world leader in developing and commercializing g
 San Diego Continuing Education is adding a Research Associate (aka Data Analyst) to the Office of Institutional Effectiveness. The research arm of the office provides information to support enrollment management, outcomes assessment, program review, accreditation, grants and resource allocation, and institution-wide planning efforts.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://ondawagroup.wordpress.com/2016/06/22/sr-python-software-engineer-carlsbad-ca/"&gt;Sr Python Software Engineer&lt;/a&gt; (ondawagroup.wordpress.com) &lt;br /&gt;
 Ondawa Group is recruiting for a Sr Python engineer for a Carlsbad company that is building a compelling search experience for mobile devices and applying state of the art artificial intelligence approaches to understand natural language in order to deliver the best search engine in multiple languages for select markets.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 &lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; which contains instructions on
 posting your job. It's free.&lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Do you have an idea or feedback for how to make San Diego Python better?
 Don't hesitate to make a &lt;a href="https://goo.gl/forms/NmfGY4ReTTPms9cw1"&gt;suggestion&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We are always looking for people willing to help organize San Diego Python.
@@ -57,10 +64,17 @@ at the Saturday study group? Ask an &lt;a href="mailto:sandiegopython-organizers
 and see what you can do to make SD Python a welcoming place for everyone.&lt;/p&gt;
 &lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
 we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
-our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>April Newsletter</title><link href="http://pythonsd.org/april-newsletter-2016.html" rel="alternate"></link><updated>2016-04-10T00:00:00-07:00</updated><author><name>Micah Denbraver</name></author><id>tag:pythonsd.org,2016-04-10:april-newsletter-2016.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+our behalf.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>April Newsletter</title><link href="http://www.pythonsd.org/april-newsletter-2016.html" rel="alternate"></link><published>2016-04-10T00:00:00-07:00</published><updated>2016-04-10T00:00:00-07:00</updated><author><name>Micah Denbraver</name></author><id>tag:www.pythonsd.org,2016-04-10:/april-newsletter-2016.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;Sorry about the belated email! Here are your updates for this month:&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="https://djangogirls.org/sandiego/"&gt;Django Girls San Diego&lt;/a&gt; (djangogirls.org) &lt;br /&gt;
+Django Girls is coming to San Diego! The San Diego workshop will be on
+Saturday, July 30th. They are an organization that facilitates one-day
+programming workshops for women that …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Sorry about the belated email! Here are your updates for this month:&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="https://djangogirls.org/sandiego/"&gt;Django Girls San Diego&lt;/a&gt; (djangogirls.org) &lt;br /&gt;
 Django Girls is coming to San Diego! The San Diego workshop will be on
 Saturday, July 30th. They are an organization that facilitates one-day
@@ -95,7 +109,7 @@ Take the train to PyCon and join fellow Python enthusiasts for a 30 hour train
 ride up the California coast. The train will leave Thursday morning, to arrive
 Friday afternoon in Portland. Email for more info: &lt;a href="snakes@pythononrails.us"&gt;snakes@pythononrails.us&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;News&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://ansirsd.com/"&gt;Ansir Innovation Center&lt;/a&gt; (ansirsd.com) &lt;br /&gt;
 Ansir, the SD community co-working space is going through spring cleaning,
 improving the layout of the co-working space and opening up new areas with:&lt;/p&gt;
@@ -120,7 +134,7 @@ In each newsletter we'll share with you:&lt;/p&gt;
 Collective1939 is a creative coworking space in El Cajon. Crowdfunding may be
 starting sometime this month.&lt;/p&gt;
 &lt;h2&gt;Jobs&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="https://www.eastridge.com/eastridge-careers/jobs/1423/python-engineer"&gt;Python Engineer&lt;/a&gt; (eastridge.com) &lt;br /&gt;
 "Our industry employs millions of people around the world. But
 the software that powers it has a notorious reputation. Too frequently,
@@ -147,21 +161,27 @@ use to gain critical insights into the performance of mobile chips that power bi
 As seen on &lt;a href="https://news.ycombinator.com/item?id=10657630"&gt;Hacker News&lt;/a&gt; :
 Qualcomm's Chip Architecture team is looking for developers to build profiling tools that our engineers
 use to gain critical insights into the performance of mobile chips that power billions of devices worldwide.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 &lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;We are always looking for people willing to help organize San Diego Python.
 Can you help film speakers at the monthly meetup? Would you like to put
 together this newsletter once in a while? Want to help at the beginners table
 at the Saturday study group? Ask an &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;organizer&lt;/a&gt; how you can help!&lt;/p&gt;
 &lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
 we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
-our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>March Newsletter</title><link href="http://pythonsd.org/march-newsletter-2016.html" rel="alternate"></link><updated>2016-03-03T00:00:00-08:00</updated><author><name>Micah Denbraver</name></author><id>tag:pythonsd.org,2016-03-03:march-newsletter-2016.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+our behalf.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>March Newsletter</title><link href="http://www.pythonsd.org/march-newsletter-2016.html" rel="alternate"></link><published>2016-03-03T00:00:00-08:00</published><updated>2016-03-03T00:00:00-08:00</updated><author><name>Micah Denbraver</name></author><id>tag:www.pythonsd.org,2016-03-03:/march-newsletter-2016.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="https://djangogirls.org/"&gt;Django Girls San Diego&lt;/a&gt; (djangogirls.org) &lt;br /&gt;
+Django Girls is coming to San Diego! They are an organization that facilitates
+one-day programming workshops for women that want to write their first website.
+It will probably take place in late Spring or early Summer, keep an eye out for …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="https://djangogirls.org/"&gt;Django Girls San Diego&lt;/a&gt; (djangogirls.org) &lt;br /&gt;
 Django Girls is coming to San Diego! They are an organization that facilitates
 one-day programming workshops for women that want to write their first website.
@@ -194,7 +214,7 @@ a day (for free! including coffee!).&lt;/p&gt;
 PyCon 2016 is coming to Portland Oregon May 28 - June 1 2016. &lt;a href="https://us.pycon.org/2016/registration/"&gt;Registration&lt;/a&gt;
 is still open.&lt;/p&gt;
 &lt;h2&gt;News&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://ansirsd.com/"&gt;Ansir Innovation Center&lt;/a&gt; (ansirsd.com) &lt;br /&gt;
 Ansir, the SD community co-working space is going through spring cleaning,
 improving the layout of the co-working space and opening up new areas with:&lt;/p&gt;
@@ -219,7 +239,7 @@ In each newsletter we'll share with you:&lt;/p&gt;
 Collective1939 is a creative coworking space in El Cajon. Crowdfunding may be
 starting sometime this month.&lt;/p&gt;
 &lt;h2&gt;Jobs&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.signspan.com/"&gt;Backend Django Developer&lt;/a&gt; (signspan.com) &lt;br /&gt;
 SignSpan is a San Diego-based startup focused on developing a digital signage
 cloud platform. We are looking for a remote, part-time backend developer
@@ -238,22 +258,29 @@ use to gain critical insights into the performance of mobile chips that power bi
 As seen on &lt;a href="https://news.ycombinator.com/item?id=10657630"&gt;Hacker News&lt;/a&gt; :
 Qualcomm's Chip Architecture team is looking for developers to build profiling tools that our engineers
 use to gain critical insights into the performance of mobile chips that power billions of devices worldwide.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 &lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;We are always looking for people willing to help organize San Diego Python.
 Can you help film speakers at the monthly meetup? Would you like to put
 together this newsletter once in a while? Want to help at the beginners table
 at the Saturday study group? Ask an &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;organizer&lt;/a&gt; how you can help!&lt;/p&gt;
 &lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
 we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
-our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>January Newsletter</title><link href="http://pythonsd.org/january-newsletter-2016.html" rel="alternate"></link><updated>2016-01-04T00:00:00-08:00</updated><author><name>Alain Domissy</name></author><id>tag:pythonsd.org,2016-01-04:january-newsletter-2016.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+our behalf.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>January Newsletter</title><link href="http://www.pythonsd.org/january-newsletter-2016.html" rel="alternate"></link><published>2016-01-04T00:00:00-08:00</published><updated>2016-01-04T00:00:00-08:00</updated><author><name>Alain Domissy</name></author><id>tag:www.pythonsd.org,2016-01-04:/january-newsletter-2016.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;Happy new year 2016 !&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/227540023/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at the Ansir Innovation Center (1pm - 4pm) The goal of the Saturday study group is to
+learn Python together in a collaborative environment. The study group …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Happy new year 2016 !&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/227540023/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
 San Diego PyLadies and SD Python are continuing the Saturday study group
 at the Ansir Innovation Center (1pm - 4pm) The goal of the Saturday study group is to
@@ -275,7 +302,7 @@ speaking.&lt;/p&gt;
 PyCon 2016 is coming to Portland Oregon May 28 - June 1 2016. &lt;a href="https://us.pycon.org/2016/registration/"&gt;Registration&lt;/a&gt;
 are open.&lt;/p&gt;
 &lt;h2&gt;Jobs&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.signspan.com/"&gt;Backend Django Developer&lt;/a&gt; (signspan.com) &lt;br /&gt;
 SignSpan is a San Diego-based startup focused on developing a digital signage
 cloud platform. We are looking for a remote, part-time backend developer
@@ -299,24 +326,30 @@ use to gain critical insights into the performance of mobile chips that power bi
 As seen on &lt;a href="https://news.ycombinator.com/item?id=10657630"&gt;Hacker News&lt;/a&gt; :
 Qualcomm's Chip Architecture team is looking for developers to build profiling tools that our engineers
 use to gain critical insights into the performance of mobile chips that power billions of devices worldwide.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 &lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;We are always looking for people willing to help organize San Diego Python.
 Can you help film speakers at the monthly meetup? Would you like to put
 together this newsletter once in a while? Want to help at the beginners table
 at the Saturday study group? Ask an &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;organizer&lt;/a&gt; how you can help!&lt;/p&gt;
 &lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
 we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
-our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2015.html" rel="alternate"></link><updated>2015-11-02T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-11-02:november-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+our behalf.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>November Newsletter</title><link href="http://www.pythonsd.org/november-newsletter-2015.html" rel="alternate"></link><published>2015-11-02T00:00:00-08:00</published><updated>2015-11-02T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-11-02:/november-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;Our &lt;a href="http://www.meetup.com/pythonsd/events/226177901/"&gt;monthly meetup&lt;/a&gt; this month is &lt;strong&gt;NOT&lt;/strong&gt; on the usual 4th Thursday which
 is Thanksgiving this month. Instead it will be on the 19th of the month. The
 December meetup will also not be on the usual date.&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SanDiego-Tech-Founders/events/226070689/"&gt;Justin Mares comes to SD Tech Founders&lt;/a&gt; (meetup.com …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Our &lt;a href="http://www.meetup.com/pythonsd/events/226177901/"&gt;monthly meetup&lt;/a&gt; this month is &lt;strong&gt;NOT&lt;/strong&gt; on the usual 4th Thursday which
+is Thanksgiving this month. Instead it will be on the 19th of the month. The
+December meetup will also not be on the usual date.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.meetup.com/SanDiego-Tech-Founders/events/226070689/"&gt;Justin Mares comes to SD Tech Founders&lt;/a&gt; (meetup.com) &lt;br /&gt;
 Justin Mares, co-author of &lt;em&gt;Traction - How Any Startup Can Achieve Explosive
 Growth&lt;/em&gt;, will be coming to San Diego Tech Founders on November 4th to talk
@@ -347,7 +380,7 @@ looking for mentors.&lt;/p&gt;
 PyCon 2016 is coming to Porland Oregon in late May 2016. &lt;a href="https://us.pycon.org/2016/registration/"&gt;Registration&lt;/a&gt; and
 the call for proposals are now open.&lt;/p&gt;
 &lt;h2&gt;Jobs&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.signspan.com/"&gt;Backend Django Developer&lt;/a&gt; (signspan.com) &lt;br /&gt;
 SignSpan is a San Diego-based startup focused on developing a digital signage
 cloud platform. We are looking for a remote, part-time backend developer
@@ -363,22 +396,29 @@ only absolute requirement is expertise with (and a love for) Python.&lt;/p&gt;
 A client in the La Jolla/UTC area is looking for a candidate with heavy Python
 development.  Knowledge of Apache, Linux, multiprocessing, SQL, Mongo DB and
 HBase is helpful. Contact Diego with Sayva Solutions for details.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 &lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;We are always looking for people willing to help organize San Diego Python.
 Can you help film speakers at the monthly meetup? Would you like to put
 together this newsletter once in a while? Want to help at the beginners table
 at the Saturday study group? Ask an &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;organizer&lt;/a&gt; how you can help!&lt;/p&gt;
 &lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
 we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
-our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>October Newsletter</title><link href="http://pythonsd.org/october-newsletter-2015.html" rel="alternate"></link><updated>2015-10-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-10-02:october-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+our behalf.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>October Newsletter</title><link href="http://www.pythonsd.org/october-newsletter-2015.html" rel="alternate"></link><published>2015-10-02T00:00:00-07:00</published><updated>2015-10-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-10-02:/october-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;Thanks very much to &lt;a href="https://hired.com/"&gt;Hired&lt;/a&gt; for sponsoring our last monthly meetup!&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="http://sdmakerfaire.org/"&gt;Maker Faire San Diego&lt;/a&gt; (sdmakerfaire.org) &lt;br /&gt;
+There's a Maker Faire in Balboa Park this weekend. It is a festival of
+innovation. People will be showing off all the amazing things they have
+made. San Diego Python …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Thanks very much to &lt;a href="https://hired.com/"&gt;Hired&lt;/a&gt; for sponsoring our last monthly meetup!&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://sdmakerfaire.org/"&gt;Maker Faire San Diego&lt;/a&gt; (sdmakerfaire.org) &lt;br /&gt;
 There's a Maker Faire in Balboa Park this weekend. It is a festival of
 innovation. People will be showing off all the amazing things they have
@@ -417,7 +457,7 @@ UC Riverside on December 4-5. Space is limited!&lt;/p&gt;
 PyCon 2016 is coming to Porland Oregon in late May 2016. Registration opens
 in mid-October. The call for proposals is open if you want to speak at PyCon.&lt;/p&gt;
 &lt;h2&gt;Jobs&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.eastridgelabs.com/python-engineer"&gt;Python Engineer&lt;/a&gt; (eastridgelabs.com) &lt;br /&gt;
 Eastridge Workforce Solutions, a local provider of workforce management is
 looking for a Python engineer to join their team. The engineer will be
@@ -427,19 +467,23 @@ only absolute requirement is expertise with (and a love for) Python.&lt;/p&gt;
 Brightscope, a local financial analytics firm and big SD Python supporter is
 looking to hire a full stack Django developer to join their ever growing team.
 They are based in the UTC area.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 &lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;We are always looking for people willing to help organize San Diego Python.
 Can you help film speakers at the monthly meetup? Would you like to put
 together this newsletter once in a while? Want to help at the beginners table
 at the Saturday study group? Ask an &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;organizer&lt;/a&gt; how you can help!&lt;/p&gt;
 &lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
 we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
-our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>August Newsletter</title><link href="http://pythonsd.org/august-newsletter-2015.html" rel="alternate"></link><updated>2015-08-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-08-02:august-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+our behalf.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>August Newsletter</title><link href="http://www.pythonsd.org/august-newsletter-2015.html" rel="alternate"></link><published>2015-08-02T00:00:00-07:00</published><updated>2015-08-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-08-02:/august-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Udemy has made a special offer to our members. They have a new class entitled
+&lt;a href="https://www.udemy.com/python-gui-programming/"&gt;Python GUI Programming&lt;/a&gt;. The course is normally $79 but the first 50 people
+who use the coupon code "pythonsd.org" would get free access to the course.
+They're hoping that by getting started on …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;Udemy has made a special offer to our members. They have a new class entitled
 &lt;a href="https://www.udemy.com/python-gui-programming/"&gt;Python GUI Programming&lt;/a&gt;. The course is normally $79 but the first 50 people
 who use the coupon code "pythonsd.org" would get free access to the course.
@@ -448,7 +492,7 @@ lifelong students. If you signup, please share about your experience. If we get
 a good group of folks taking the course, perhaps the Saturday study group
 could be a useful place to compare notes.&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/223519327/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
 San Diego PyLadies and SD Python are continuing the Saturday study group
 at the Ansir Innovation Center. The goal of the Saturday study group is to
@@ -477,7 +521,7 @@ Django Girls, a non-profit that helps organize programming workshops for women,
 is holding a workshop for women who would like to learn to build websites at
 UC Riverside on December 4-5. Space is limited!&lt;/p&gt;
 &lt;h2&gt;Jobs&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://jobs.ucsd.edu/bulletin/job.aspx?cat=search&amp;amp;sortby=rank&amp;amp;jobnum_in=77396&amp;amp;search=software%20developer"&gt;Software Developer&lt;/a&gt; (ucsd.edu) &lt;br /&gt;
 The Division of Biomedical Informatics (DBMI) in the Department of Medicine at
 UCSD is looking for a software developer who will will collaborate with other
@@ -493,20 +537,27 @@ only absolute requirement is expertise with (and a love for) Python.&lt;/p&gt;
 Brightscope, a local financial analytics firm and big SD Python supporter is
 looking to hire a full stack Django developer to join their ever growing team.
 They are based in the UTC area.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 &lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;If you're into web development, you should check out the new edition of
 &lt;a href="http://twoscoopspress.org/products/two-scoops-of-django-1-8"&gt;Two Scoops of Django&lt;/a&gt; by occasional SD Python attendees Danny
 Greenfeld and Audrey Roy Greenfeld.&lt;/p&gt;
 &lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
 we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
-our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>July Newsletter</title><link href="http://pythonsd.org/july-newsletter-2015.html" rel="alternate"></link><updated>2015-07-12T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-07-12:july-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+our behalf.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>July Newsletter</title><link href="http://www.pythonsd.org/july-newsletter-2015.html" rel="alternate"></link><published>2015-07-12T00:00:00-07:00</published><updated>2015-07-12T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-07-12:/july-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/223829973/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at the Ansir Innovation Center. The goal of the Saturday study group is to
+learn Python together in a collaborative environment. The study group is open
+to people of all …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/223829973/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
 San Diego PyLadies and SD Python are continuing the Saturday study group
 at the Ansir Innovation Center. The goal of the Saturday study group is to
@@ -535,23 +586,27 @@ Djangogirls, a non-profit that helps organize programming workshops for women,
 is holding a workshop for women who would like to learn to build websites at
 UC Riverside on December 4-5. Space is limited!&lt;/p&gt;
 &lt;h2&gt;Jobs&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Software_Engineer"&gt;Full Stack Developer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
 Brightscope, a local financial analytics firm and big SD Python supporter is
 looking to hire a full stack Django developer to join their ever growing team.
 They are based in the UTC area.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 &lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;If you're into web development, you should check out the new edition of
 &lt;a href="http://twoscoopspress.org/products/two-scoops-of-django-1-8"&gt;Two Scoops of Django&lt;/a&gt; by occasional SD Python attendees Danny
 Greenfeld and Audrey Roy Greenfeld.&lt;/p&gt;
 &lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
 we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
-our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>June Newsletter</title><link href="http://pythonsd.org/june-newsletter-2015.html" rel="alternate"></link><updated>2015-06-14T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-06-14:june-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+our behalf.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>June Newsletter</title><link href="http://www.pythonsd.org/june-newsletter-2015.html" rel="alternate"></link><published>2015-06-14T00:00:00-07:00</published><updated>2015-06-14T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-06-14:/june-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;San Diego Python is looking to put together a short series of workshops and
+study group sessions this Summer as a companion to edX/HarveyMuddX's course
+&lt;a href="https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x#!"&gt;CS For All: Introduction to Computer Science and Python Programming&lt;/a&gt;.
+The course (as well as SD Python workshops) is free although edX will …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;San Diego Python is looking to put together a short series of workshops and
 study group sessions this Summer as a companion to edX/HarveyMuddX's course
 &lt;a href="https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x#!"&gt;CS For All: Introduction to Computer Science and Python Programming&lt;/a&gt;.
@@ -622,7 +677,11 @@ posting here. Five dollars helps and $50 helps a lot. These donations entirely
 go toward our periodic workshops as well as our meetup.com dues.
 Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>May Newsletter</title><link href="http://pythonsd.org/may-newsletter-2015.html" rel="alternate"></link><updated>2015-05-03T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-05-03:may-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>May Newsletter</title><link href="http://www.pythonsd.org/may-newsletter-2015.html" rel="alternate"></link><published>2015-05-03T00:00:00-07:00</published><updated>2015-05-03T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-05-03:/may-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;We now have a &lt;a href="http://pythonsd.org/pages/code-of-conduct.html"&gt;code of conduct&lt;/a&gt;! Our community as part of the Python community
+at large works hard on being welcoming, and this code of conduct is just a
+formal outline of what is expected from members of the community. Please get in
+touch with one of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;We now have a &lt;a href="http://pythonsd.org/pages/code-of-conduct.html"&gt;code of conduct&lt;/a&gt;! Our community as part of the Python community
 at large works hard on being welcoming, and this code of conduct is just a
 formal outline of what is expected from members of the community. Please get in
@@ -687,7 +746,13 @@ posting here. Five dollars helps and $50 helps a lot. These donations entirely
 go toward our periodic workshops as well as our meetup.com dues.
 Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>April Newsletter</title><link href="http://pythonsd.org/april-newsletter-2015.html" rel="alternate"></link><updated>2015-04-08T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-04-08:april-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>April Newsletter</title><link href="http://www.pythonsd.org/april-newsletter-2015.html" rel="alternate"></link><published>2015-04-08T00:00:00-07:00</published><updated>2015-04-08T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-04-08:/april-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;We are always looking for new presenters for SD Python's monthly meetup.
+If you're interested in giving a talk, please &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;email us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://us.pycon.org/2015/"&gt;PyCon 2015&lt;/a&gt; (pycon.org) &lt;br /&gt;
+PyCon 2015 starts tomorrow in Montreal. PyCon is the largest Python
+conference and there are a number of local San Diegans …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;We are always looking for new presenters for SD Python's monthly meetup.
 If you're interested in giving a talk, please &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;email us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
@@ -753,7 +818,13 @@ posting here. Five dollars helps and $50 helps a lot. These donations entirely
 go toward our periodic workshops as well as our meetup.com dues.
 Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>March Newsletter</title><link href="http://pythonsd.org/march-newsletter-2015.html" rel="alternate"></link><updated>2015-03-03T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-03-03:march-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>March Newsletter</title><link href="http://www.pythonsd.org/march-newsletter-2015.html" rel="alternate"></link><published>2015-03-03T00:00:00-08:00</published><updated>2015-03-03T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-03-03:/march-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;If there are articles, jobs or events you'd like to see in the next newsletter
+or if you have any feedback on San Diego Python, feel free to
+&lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;share with us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/220475825/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;If there are articles, jobs or events you'd like to see in the next newsletter
 or if you have any feedback on San Diego Python, feel free to
 &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;share with us&lt;/a&gt;.&lt;/p&gt;
@@ -821,7 +892,13 @@ posting here. Five dollars helps and $50 helps a lot. These donations entirely
 go toward our periodic workshops as well as our meetup.com dues.
 Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>February Newsletter</title><link href="http://pythonsd.org/february-newsletter-2015.html" rel="alternate"></link><updated>2015-02-02T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-02-02:february-newsletter-2015.html</id><summary type="html">&lt;p&gt;Howdy,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>February Newsletter</title><link href="http://www.pythonsd.org/february-newsletter-2015.html" rel="alternate"></link><published>2015-02-02T00:00:00-08:00</published><updated>2015-02-02T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-02-02:/february-newsletter-2015.html</id><summary type="html">&lt;p&gt;Howdy,&lt;/p&gt;
+&lt;p&gt;If there are articles, jobs or events you'd like to see in the next newsletter
+or if you have any feedback on San Diego Python, feel free to
+&lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;share with us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/219919725/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Howdy,&lt;/p&gt;
 &lt;p&gt;If there are articles, jobs or events you'd like to see in the next newsletter
 or if you have any feedback on San Diego Python, feel free to
 &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;share with us&lt;/a&gt;.&lt;/p&gt;
@@ -875,7 +952,11 @@ posting here. Five dollars helps and $50 helps a lot. These donations entirely
 go toward our periodic workshops as well as our meetup.com dues.
 Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>January Newsletter</title><link href="http://pythonsd.org/january-newsletter-2015.html" rel="alternate"></link><updated>2015-01-03T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-01-03:january-newsletter-2015.html</id><summary type="html">&lt;p&gt;Happy New Year,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>January Newsletter</title><link href="http://www.pythonsd.org/january-newsletter-2015.html" rel="alternate"></link><published>2015-01-03T00:00:00-08:00</published><updated>2015-01-03T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2015-01-03:/january-newsletter-2015.html</id><summary type="html">&lt;p&gt;Happy New Year,&lt;/p&gt;
+&lt;p&gt;Just before New Year's we crossed the 800 member milestone!&lt;/p&gt;
+&lt;p&gt;We are looking to have a cross-disciplinary (Python, R, Kline and Weka)
+data science workshop in late February or early March. We are actively seeking
+docents to help tutor and guide people interested in learning about data …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Happy New Year,&lt;/p&gt;
 &lt;p&gt;Just before New Year's we crossed the 800 member milestone!&lt;/p&gt;
 &lt;p&gt;We are looking to have a cross-disciplinary (Python, R, Kline and Weka)
 data science workshop in late February or early March. We are actively seeking
@@ -935,7 +1016,11 @@ go toward paying for workshops such as March's
 &lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt; as well as our meetup.com dues.
 Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>December Newsletter</title><link href="http://pythonsd.org/december-newsletter-2014.html" rel="alternate"></link><updated>2014-12-11T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-12-11:december-newsletter-2014.html</id><summary type="html">&lt;p&gt;Hey Pythonistas,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>December Newsletter</title><link href="http://www.pythonsd.org/december-newsletter-2014.html" rel="alternate"></link><published>2014-12-11T00:00:00-08:00</published><updated>2014-12-11T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-12-11:/december-newsletter-2014.html</id><summary type="html">&lt;p&gt;Hey Pythonistas,&lt;/p&gt;
+&lt;p&gt;Over the last year, you have helped San Diego Python grow from under 500
+members to almost 800 members today. San Diego PyLadies has more than
+doubled in size to over 150 members. The meetups are better attended, and
+more importantly, more local developers are participating, speaking, working …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hey Pythonistas,&lt;/p&gt;
 &lt;p&gt;Over the last year, you have helped San Diego Python grow from under 500
 members to almost 800 members today. San Diego PyLadies has more than
 doubled in size to over 150 members. The meetups are better attended, and
@@ -986,7 +1071,11 @@ go toward paying for workshops such as March's
 &lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt;. Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if
 you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2014.html" rel="alternate"></link><updated>2014-11-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-11-02:november-newsletter-2014.html</id><summary type="html">&lt;p&gt;Pythoneers,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>November Newsletter</title><link href="http://www.pythonsd.org/november-newsletter-2014.html" rel="alternate"></link><published>2014-11-02T00:00:00-07:00</published><updated>2014-11-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-11-02:/november-newsletter-2014.html</id><summary type="html">&lt;p&gt;Pythoneers,&lt;/p&gt;
+&lt;p&gt;After a bit of a hiatus, the monthly newsletter is back!&lt;/p&gt;
+&lt;p&gt;First of all, a bit of housekeeping is in order. There will be a few changes
+to the schedule of the San Diego Python monthly meetup for the next two months.
+Our usual 4th Thursday schedule would mean …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pythoneers,&lt;/p&gt;
 &lt;p&gt;After a bit of a hiatus, the monthly newsletter is back!&lt;/p&gt;
 &lt;p&gt;First of all, a bit of housekeeping is in order. There will be a few changes
 to the schedule of the San Diego Python monthly meetup for the next two months.
@@ -1033,7 +1122,14 @@ workshops such as March's &lt;a href="http://www.meetup.com/pythonsd/events/1646
 September's &lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt;. Also, we are on
 &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>September Newsletter</title><link href="http://pythonsd.org/september-newsletter-2014.html" rel="alternate"></link><updated>2014-09-08T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-09-08:september-newsletter-2014.html</id><summary type="html">&lt;p&gt;Howdy Pythonistas,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>September Newsletter</title><link href="http://www.pythonsd.org/september-newsletter-2014.html" rel="alternate"></link><published>2014-09-08T00:00:00-07:00</published><updated>2014-09-08T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-09-08:/september-newsletter-2014.html</id><summary type="html">&lt;p&gt;Howdy Pythonistas,&lt;/p&gt;
+&lt;p&gt;We can now raffle off licenses of PyCharm Professional at many of our
+meetups! &lt;a href="http://www.jetbrains.com/pycharm/"&gt;JetBrains&lt;/a&gt;, the maker of PyCharm is generously sponsoring our
+group through awarding a license for each meetup with more than 30
+attendees.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego Python and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Howdy Pythonistas,&lt;/p&gt;
 &lt;p&gt;We can now raffle off licenses of PyCharm Professional at many of our
 meetups! &lt;a href="http://www.jetbrains.com/pycharm/"&gt;JetBrains&lt;/a&gt;, the maker of PyCharm is generously sponsoring our
 group through awarding a license for each meetup with more than 30
@@ -1085,7 +1181,13 @@ workshops such as March's &lt;a href="http://www.meetup.com/pythonsd/events/1646
 September's &lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt;. Also, we are on
 &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>August Newsletter</title><link href="http://pythonsd.org/august-newsletter-2014.html" rel="alternate"></link><updated>2014-08-06T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-08-06:august-newsletter-2014.html</id><summary type="html">&lt;p&gt;Good day friendly developers,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>August Newsletter</title><link href="http://www.pythonsd.org/august-newsletter-2014.html" rel="alternate"></link><published>2014-08-06T00:00:00-07:00</published><updated>2014-08-06T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-08-06:/august-newsletter-2014.html</id><summary type="html">&lt;p&gt;Good day friendly developers,&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/196007992/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python and  are continuing the Saturday study group
+at Pangea cafe. The goal of the Saturday study group is to learn Python
+together in a collaborative environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/197325952/"&gt;San Diego Python monthly meetup&lt;/a&gt; (meetup.com …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Good day friendly developers,&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/196007992/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
 San Diego PyLadies and SD Python and  are continuing the Saturday study group
@@ -1142,7 +1244,13 @@ September's &lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Int
 &lt;p&gt;We have only ONE remaining signed copy of &lt;a href="http://twoscoopspress.org/"&gt;Two Scoops of Django&lt;/a&gt;.
 A copy could be yours (for cheaper than Amazon)!&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
-folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>July Newsletter</title><link href="http://pythonsd.org/july-newsletter-2014.html" rel="alternate"></link><updated>2014-07-03T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-07-03:july-newsletter-2014.html</id><summary type="html">&lt;p&gt;Happy Independence Day Pythonistas,&lt;/p&gt;
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>July Newsletter</title><link href="http://www.pythonsd.org/july-newsletter-2014.html" rel="alternate"></link><published>2014-07-03T00:00:00-07:00</published><updated>2014-07-03T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-07-03:/july-newsletter-2014.html</id><summary type="html">&lt;p&gt;Happy Independence Day Pythonistas,&lt;/p&gt;
+&lt;p&gt;Did you know that San Diego Python has an IRC channel? There are some nice
+folks happy to help or just chat in &lt;a href="http://webchat.freenode.net/?channels=sandiegopython"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/190838302/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego Python and PyLadies are continuing the Saturday study group at
+Pangea …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Happy Independence Day Pythonistas,&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has an IRC channel? There are some nice
 folks happy to help or just chat in &lt;a href="http://webchat.freenode.net/?channels=sandiegopython"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
@@ -1207,7 +1315,12 @@ Amazon)!&lt;/p&gt;
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
 for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt; or tweet
-&lt;a href="https://twitter.com/sandiegopython"&gt;@sandiegopython&lt;/a&gt;.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>June Newsletter</title><link href="http://pythonsd.org/june-newsletter-2014.html" rel="alternate"></link><updated>2014-06-05T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-06-05:june-newsletter-2014.html</id><summary type="html">&lt;p&gt;Howdy Pythoneers,&lt;/p&gt;
+&lt;a href="https://twitter.com/sandiegopython"&gt;@sandiegopython&lt;/a&gt;.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>June Newsletter</title><link href="http://www.pythonsd.org/june-newsletter-2014.html" rel="alternate"></link><published>2014-06-05T00:00:00-07:00</published><updated>2014-06-05T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-06-05:/june-newsletter-2014.html</id><summary type="html">&lt;p&gt;Howdy Pythoneers,&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://sandiego.geekgirltechcon.com/"&gt;Geek Girl San Diego&lt;/a&gt; (geekgirltechcon.com) &lt;br /&gt;
+Geek Girl is a hands-on conference for women and men of all skill levels
+interested in technology. The conference is on June 21st at the Joan B. Kroc
+Institute for Peace and Justice on the beautiful University of San Diego …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Howdy Pythoneers,&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://sandiego.geekgirltechcon.com/"&gt;Geek Girl San Diego&lt;/a&gt; (geekgirltechcon.com) &lt;br /&gt;
 Geek Girl is a hands-on conference for women and men of all skill levels
@@ -1265,7 +1378,11 @@ it onto your shirt, hoodie, hat or bag? See the relevant old post for more
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
 for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt; or tweet
-&lt;a href="https://twitter.com/sandiegopython"&gt;@sandiegopython&lt;/a&gt;.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>May Newsletter</title><link href="http://pythonsd.org/may-newsletter-2014.html" rel="alternate"></link><updated>2014-05-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-05-02:may-newsletter-2014.html</id><summary type="html">&lt;p&gt;Hola Pythonistas,&lt;/p&gt;
+&lt;a href="https://twitter.com/sandiegopython"&gt;@sandiegopython&lt;/a&gt;.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>May Newsletter</title><link href="http://www.pythonsd.org/may-newsletter-2014.html" rel="alternate"></link><published>2014-05-02T00:00:00-07:00</published><updated>2014-05-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-05-02:/may-newsletter-2014.html</id><summary type="html">&lt;p&gt;Hola Pythonistas,&lt;/p&gt;
+&lt;p&gt;We haven't yet lined up a speaker for this month's San Diego
+Python &lt;a href="http://www.meetup.com/pythonsd/events/163679432/"&gt;monthly meetup&lt;/a&gt;. If you'd be willing to give
+a talk on a Python related topic this month or next, please let us
+know. We'll be posting more details on the speaker and the talk in …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hola Pythonistas,&lt;/p&gt;
 &lt;p&gt;We haven't yet lined up a speaker for this month's San Diego
 Python &lt;a href="http://www.meetup.com/pythonsd/events/163679432/"&gt;monthly meetup&lt;/a&gt;. If you'd be willing to give
 a talk on a Python related topic this month or next, please let us
@@ -1311,7 +1428,14 @@ it onto your shirt, hoodie, hat or bag? See the relevant old post for more
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
 for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt; or tweet
-&lt;a href="https://twitter.com/sandiegopython"&gt;@sandiegopython&lt;/a&gt;.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>April Newsletter</title><link href="http://pythonsd.org/april-newsletter-2014.html" rel="alternate"></link><updated>2014-04-18T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-04-18:april-newsletter-2014.html</id><summary type="html">&lt;p&gt;Local Pythoneers,&lt;/p&gt;
+&lt;a href="https://twitter.com/sandiegopython"&gt;@sandiegopython&lt;/a&gt;.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>April Newsletter</title><link href="http://www.pythonsd.org/april-newsletter-2014.html" rel="alternate"></link><published>2014-04-18T00:00:00-07:00</published><updated>2014-04-18T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-04-18:/april-newsletter-2014.html</id><summary type="html">&lt;p&gt;Local Pythoneers,&lt;/p&gt;
+&lt;p&gt;Amaziningly, we have one speaker already lined up for this month's San Diego
+Python &lt;a href="http://www.meetup.com/pythonsd/events/163679382/"&gt;monthly meetup&lt;/a&gt;. However, if you'd be willing to give
+a 15 minute talk on a Python related topic this month or next, please let us
+know.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/175885322"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+Carol …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Local Pythoneers,&lt;/p&gt;
 &lt;p&gt;Amaziningly, we have one speaker already lined up for this month's San Diego
 Python &lt;a href="http://www.meetup.com/pythonsd/events/163679382/"&gt;monthly meetup&lt;/a&gt;. However, if you'd be willing to give
 a 15 minute talk on a Python related topic this month or next, please let us
@@ -1351,7 +1475,11 @@ last month's &lt;a href="http://www.meetup.com/pythonsd/events/164679962/"&gt;Dj
 &lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
-for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt;.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>March Newsletter</title><link href="http://pythonsd.org/march-newsletter-2014.html" rel="alternate"></link><updated>2014-03-03T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-03-03:march-newsletter-2014.html</id><summary type="html">&lt;p&gt;Fellow Python developers,&lt;/p&gt;
+for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt;.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>March Newsletter</title><link href="http://www.pythonsd.org/march-newsletter-2014.html" rel="alternate"></link><published>2014-03-03T00:00:00-08:00</published><updated>2014-03-03T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-03-03:/march-newsletter-2014.html</id><summary type="html">&lt;p&gt;Fellow Python developers,&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for our next …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Fellow Python developers,&lt;/p&gt;
 &lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
@@ -1424,7 +1552,11 @@ group as a 5-15 minute lightning talk.&lt;/p&gt;
 SciPy 2014, the largest Python conference focused on scientific computing, is
 coming up in Austin, TX on July 6-12. The deadline for submitting proposals
 for talks and posters is &lt;strong&gt;Friday, March 14&lt;/strong&gt;. There are many new additions to
-this year's expanded &lt;a href="https://conference.scipy.org/scipy2014/about/"&gt;SciPy conference&lt;/a&gt;.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>February Newsletter</title><link href="http://pythonsd.org/february-newsletter-2014.html" rel="alternate"></link><updated>2014-02-05T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-02-05:february-newsletter-2014.html</id><summary type="html">&lt;p&gt;Local sun-loving-in-winter pythoneering individuals,&lt;/p&gt;
+this year's expanded &lt;a href="https://conference.scipy.org/scipy2014/about/"&gt;SciPy conference&lt;/a&gt;.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>February Newsletter</title><link href="http://www.pythonsd.org/february-newsletter-2014.html" rel="alternate"></link><published>2014-02-05T00:00:00-08:00</published><updated>2014-02-05T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-02-05:/february-newsletter-2014.html</id><summary type="html">&lt;p&gt;Local sun-loving-in-winter pythoneering individuals,&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for our …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Local sun-loving-in-winter pythoneering individuals,&lt;/p&gt;
 &lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
@@ -1473,7 +1605,11 @@ to fill eight positions.&lt;/p&gt;
 It's free. However, if you recruit some top notch folks as a result and you
 are feeling particularly generous, the Python Software Foundation
 &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on our behalf but there is no
-obligation.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>January Newsletter</title><link href="http://pythonsd.org/january-newsletter-2014.html" rel="alternate"></link><updated>2014-01-06T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-01-06:january-newsletter-2014.html</id><summary type="html">&lt;p&gt;Happy new year local Pythonistas,&lt;/p&gt;
+obligation.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>January Newsletter</title><link href="http://www.pythonsd.org/january-newsletter-2014.html" rel="alternate"></link><published>2014-01-06T00:00:00-08:00</published><updated>2014-01-06T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2014-01-06:/january-newsletter-2014.html</id><summary type="html">&lt;p&gt;Happy new year local Pythonistas,&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Happy new year local Pythonistas,&lt;/p&gt;
 &lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
@@ -1525,7 +1661,11 @@ Gildshire, a startup from the La Jolla UTC area, is about to launch in beta
 and is looking for enthusiastic part time and full time Python web developers
 familiar with the web2py framework.&lt;/p&gt;
 &lt;p&gt;Would you like to see your job opening posted here? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;.
-It's free.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>December Newsletter</title><link href="http://pythonsd.org/december-newsletter-2013.html" rel="alternate"></link><updated>2013-12-02T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-12-02:december-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Python enthusiasts,&lt;/p&gt;
+It's free.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>December Newsletter</title><link href="http://www.pythonsd.org/december-newsletter-2013.html" rel="alternate"></link><published>2013-12-02T00:00:00-08:00</published><updated>2013-12-02T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2013-12-02:/december-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Python enthusiasts,&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for our …&lt;/p&gt;</summary><content type="html">&lt;p&gt;San Diego Python enthusiasts,&lt;/p&gt;
 &lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
@@ -1575,8 +1715,16 @@ WhatRunsWhere, a Pacific Beach based advertising firm, is looking for a web
 developer with experience in Python, PHP or something similar as well as
 some database and web application framework experience.&lt;/p&gt;
 &lt;p&gt;Would you like to see your job opening posted here? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;.
-It's free.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>Test-Driven Django Development Workshop</title><link href="http://pythonsd.org/november-2013-django-tdd-workshop.html" rel="alternate"></link><updated>2013-11-05T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-11-05:november-2013-django-tdd-workshop.html</id><summary type="html">&lt;p&gt;&lt;a href="/static/images/2013-11-05_django-tdd-workshop.jpg"&gt;
-  &lt;img src="/static/images/2013-11-05_django-tdd-workshop.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Test-Driven Development workshop" /&gt;
+It's free.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>Test-Driven Django Development Workshop</title><link href="http://www.pythonsd.org/november-2013-django-tdd-workshop.html" rel="alternate"></link><published>2013-11-05T00:00:00-08:00</published><updated>2013-11-05T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2013-11-05:/november-2013-django-tdd-workshop.html</id><summary type="html">&lt;p&gt;&lt;a href="/images/2013-11-05_django-tdd-workshop.jpg"&gt;
+  &lt;img src="/images/2013-11-05_django-tdd-workshop.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Test-Driven Development workshop" /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had 40 people attend our
+&lt;a href="http://www.meetup.com/pythonsd/events/138282532/"&gt;Test-Driven Django Development workshop&lt;/a&gt; last weekend.
+Thanks to the &lt;a href="http://python.org/psf/"&gt;Python Software Foundation&lt;/a&gt; for sponsoring this event and
+thanks to the &lt;a href="http://aicenterca.com/"&gt;Ansir Innovation Center&lt;/a&gt; for providing the venue! The
+feedback on the event was extremely positive.&lt;/p&gt;
+&lt;p&gt;In case you missed our event or if you …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="/images/2013-11-05_django-tdd-workshop.jpg"&gt;
+  &lt;img src="/images/2013-11-05_django-tdd-workshop.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Test-Driven Development workshop" /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We had 40 people attend our
 &lt;a href="http://www.meetup.com/pythonsd/events/138282532/"&gt;Test-Driven Django Development workshop&lt;/a&gt; last weekend.
@@ -1587,7 +1735,11 @@ feedback on the event was extremely positive.&lt;/p&gt;
 test-driven development workshop, we have made all of our
 &lt;a href="http://test-driven-django-development.readthedocs.org/"&gt;workshop tutorials&lt;/a&gt; available online. The sources are
 up on &lt;a href="https://github.com/pythonsd/test-driven-django-development"&gt;github&lt;/a&gt; and we intend to continue to improve these so that
-they can be reused in another workshop.&lt;/p&gt;</summary><category term="workshop"></category></entry><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2013.html" rel="alternate"></link><updated>2013-11-01T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-11-01:november-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythoneers,&lt;/p&gt;
+they can be reused in another workshop.&lt;/p&gt;</content><category term="workshop"></category></entry><entry><title>November Newsletter</title><link href="http://www.pythonsd.org/november-newsletter-2013.html" rel="alternate"></link><published>2013-11-01T00:00:00-07:00</published><updated>2013-11-01T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2013-11-01:/november-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythoneers,&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for our next …&lt;/p&gt;</summary><content type="html">&lt;p&gt;San Diego Pythoneers,&lt;/p&gt;
 &lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
@@ -1638,7 +1790,11 @@ side of Python.&lt;/p&gt;
 1AppWorks, a stealth-mode startup in La Jolla, is looking for an experienced
 web developer familiar with Python, PHP, Drupal, Django or Google App Engine.&lt;/p&gt;
 &lt;p&gt;Would you like to see your job opening posted here? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;.
-It's free.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>October Newsletter</title><link href="http://pythonsd.org/october-newsletter-2013.html" rel="alternate"></link><updated>2013-10-04T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-10-04:october-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythonistas,&lt;/p&gt;
+It's free.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>October Newsletter</title><link href="http://www.pythonsd.org/october-newsletter-2013.html" rel="alternate"></link><published>2013-10-04T00:00:00-07:00</published><updated>2013-10-04T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2013-10-04:/october-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythonistas,&lt;/p&gt;
+&lt;p&gt;We created this newsletter to inform our users about events and happenings
+in the local as well as larger Python community. It's also a great way to
+connect people looking for jobs to those with job openings.&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you …&lt;/p&gt;</summary><content type="html">&lt;p&gt;San Diego Pythonistas,&lt;/p&gt;
 &lt;p&gt;We created this newsletter to inform our users about events and happenings
 in the local as well as larger Python community. It's also a great way to
 connect people looking for jobs to those with job openings.&lt;/p&gt;
@@ -1681,8 +1837,25 @@ provider is looking for a Python developer familar with Django, MySQL and
 cloud deployment such as EC2 or Heroku. This was referred to San Diego Python
 by Laura and Steve of Steel Point Search.&lt;/p&gt;
 &lt;p&gt;Would you like to see your job opening posted here? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;.
-It's free.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>Python for Data Analysis</title><link href="http://pythonsd.org/april-2013-data-analysis.html" rel="alternate"></link><updated>2013-04-20T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-04-20:april-2013-data-analysis.html</id><summary type="html">&lt;p&gt;&lt;a href="/static/images/2013-04-20_data-analysis.jpg"&gt;
-  &lt;img src="/static/images/2013-04-20_data-analysis.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Python for Data Analysis" /&gt;
+It's free.&lt;/p&gt;</content><category term="newsletter"></category></entry><entry><title>Python for Data Analysis</title><link href="http://www.pythonsd.org/april-2013-data-analysis.html" rel="alternate"></link><published>2013-04-20T00:00:00-07:00</published><updated>2013-04-20T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2013-04-20:/april-2013-data-analysis.html</id><summary type="html">&lt;p&gt;&lt;a href="/images/2013-04-20_data-analysis.jpg"&gt;
+  &lt;img src="/images/2013-04-20_data-analysis.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Python for Data Analysis" /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had about 40 people attend our
+&lt;a href="http://www.meetup.com/pythonsd/events/94234812/"&gt;Python for data analysis workshop&lt;/a&gt;.
+Thanks to the
+&lt;a href="http://qualcomm.com"&gt;Qualcomm&lt;/a&gt; open source portal team for sponsoring
+today's event!&lt;/p&gt;
+&lt;p&gt;Here are the presentations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IPython and Numpy by Dave Cook
+ (&lt;a href="http://www.youtube.com/watch?v=wQXhnhbx5CM"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nbviewer.ipython.org/5406317"&gt;Pandas&lt;/a&gt; by Karmel Allison
+ (&lt;a href="http://www.youtube.com/watch?v=riJjfiH7Neg"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/pythonsd/matplotlib-presentation-20-apr2013-final-19667653"&gt;Matplotlib&lt;/a&gt;
+ by Drew Arnett (&lt;a href="http://www.youtube.com/watch?v=shm3S-tIjwI"&gt;video&lt;/a&gt;,
+ &lt;a href="http://www.slideshare.net/pythonsd/matplotlib-demo-code-19667654"&gt;code&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://clarinova.box.com/shared/static/lug0dq4wzht39fwkgge9.pdf"&gt;Analyzing crime &amp;amp; census data …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;&lt;a href="/images/2013-04-20_data-analysis.jpg"&gt;
+  &lt;img src="/images/2013-04-20_data-analysis.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Python for Data Analysis" /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We had about 40 people attend our
 &lt;a href="http://www.meetup.com/pythonsd/events/94234812/"&gt;Python for data analysis workshop&lt;/a&gt;.
@@ -1708,16 +1881,32 @@ today's event!&lt;/p&gt;
 used by some of the presentations.&lt;/p&gt;
 &lt;p&gt;I will edit this shortly with the remaining presentations and videos.
 All credit for creating, editing and uploading the videos goes to Eric
-Busboom.&lt;/p&gt;</summary><category term="workshop"></category></entry><entry><title>March 2013 Meetup</title><link href="http://pythonsd.org/march-2013-meetup.html" rel="alternate"></link><updated>2013-03-28T00:00:00-07:00</updated><author><name>Paul Collins</name></author><id>tag:pythonsd.org,2013-03-28:march-2013-meetup.html</id><summary type="html">&lt;p&gt;Paul Collins presented on some &lt;a href="https://docs.google.com/presentation/d/14uO_dlLeWBtvZDZBC6czuUXjrNYNjRn4G9CoPe7q4TI/edit#slide=id.p"&gt;functional programming tools in
+Busboom.&lt;/p&gt;</content><category term="workshop"></category></entry><entry><title>March 2013 Meetup</title><link href="http://www.pythonsd.org/march-2013-meetup.html" rel="alternate"></link><published>2013-03-28T00:00:00-07:00</published><updated>2013-03-28T00:00:00-07:00</updated><author><name>Paul Collins</name></author><id>tag:www.pythonsd.org,2013-03-28:/march-2013-meetup.html</id><summary type="html">&lt;p&gt;Paul Collins presented on some &lt;a href="https://docs.google.com/presentation/d/14uO_dlLeWBtvZDZBC6czuUXjrNYNjRn4G9CoPe7q4TI/edit#slide=id.p"&gt;functional programming tools in
 python&lt;/a&gt; and Trey Hunner presented on &lt;a href="https://github.com/pythonsd/presentations/tree/master/list_comprehensions"&gt;list
-comprehensions&lt;/a&gt;&lt;/p&gt;</summary><category term="regular-meetup"></category><category term="social"></category></entry><entry><title>Analyzing Crime with Python</title><link href="http://pythonsd.org/march-2013-analyzing-crime-with-python.html" rel="alternate"></link><updated>2013-03-06T00:00:00-08:00</updated><author><name>Trey Hunner</name></author><id>tag:pythonsd.org,2013-03-06:march-2013-analyzing-crime-with-python.html</id><summary type="html">&lt;p&gt;Eric Busboom presented a data toolchain that could help our community analyze
+comprehensions&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Paul Collins presented on some &lt;a href="https://docs.google.com/presentation/d/14uO_dlLeWBtvZDZBC6czuUXjrNYNjRn4G9CoPe7q4TI/edit#slide=id.p"&gt;functional programming tools in
+python&lt;/a&gt; and Trey Hunner presented on &lt;a href="https://github.com/pythonsd/presentations/tree/master/list_comprehensions"&gt;list
+comprehensions&lt;/a&gt;&lt;/p&gt;</content><category term="regular-meetup"></category><category term="social"></category></entry><entry><title>Analyzing Crime with Python</title><link href="http://www.pythonsd.org/march-2013-analyzing-crime-with-python.html" rel="alternate"></link><published>2013-03-06T00:00:00-08:00</published><updated>2013-03-06T00:00:00-08:00</updated><author><name>Trey Hunner</name></author><id>tag:www.pythonsd.org,2013-03-06:/march-2013-analyzing-crime-with-python.html</id><summary type="html">&lt;p&gt;Eric Busboom presented a data toolchain that could help our community analyze
+large public datasets with the goal of reducing the impact of crime.  The
+meeting focused on programming tools used for analysis, the challenge of
+acquiring high quality data, and questions the data analysis might answer.&lt;/p&gt;
+&lt;p&gt;The San Diego …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Eric Busboom presented a data toolchain that could help our community analyze
 large public datasets with the goal of reducing the impact of crime.  The
 meeting focused on programming tools used for analysis, the challenge of
 acquiring high quality data, and questions the data analysis might answer.&lt;/p&gt;
 &lt;p&gt;The San Diego Data &lt;a href="https://sandiegodata.atlassian.net/wiki/display/SDD/Crime+Analysis"&gt;Crime Analysis&lt;/a&gt; page includes &lt;a href="https://sandiegodata.atlassian.net/wiki/pages/viewrecentblogposts.action?key=SDD"&gt;Meeting notes&lt;/a&gt; for the
 event, links to tools and datasets used, and other information about the
-project.  The databundles shown in the presentation are also on &lt;a href="https://github.com/clarinova/databundles"&gt;Github&lt;/a&gt;.&lt;/p&gt;</summary><category term="meetup"></category><category term="social"></category></entry><entry><title>Django Day</title><link href="http://pythonsd.org/february-2013-django-day.html" rel="alternate"></link><updated>2013-02-23T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-02-23:february-2013-django-day.html</id><summary type="html">&lt;p&gt;&lt;a href="/static/images/2013-02-23_django-day.jpg"&gt;
-  &lt;img src="/static/images/2013-02-23_django-day.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Day workshop" /&gt;
+project.  The databundles shown in the presentation are also on &lt;a href="https://github.com/clarinova/databundles"&gt;Github&lt;/a&gt;.&lt;/p&gt;</content><category term="meetup"></category><category term="social"></category></entry><entry><title>Django Day</title><link href="http://www.pythonsd.org/february-2013-django-day.html" rel="alternate"></link><published>2013-02-23T00:00:00-08:00</published><updated>2013-02-23T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2013-02-23:/february-2013-django-day.html</id><summary type="html">&lt;p&gt;&lt;a href="/images/2013-02-23_django-day.jpg"&gt;
+  &lt;img src="/images/2013-02-23_django-day.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Day workshop" /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had about 30 people attend our
+&lt;a href="http://www.meetup.com/pythonsd/events/95751792/"&gt;Django Day workshop&lt;/a&gt;.
+We had both an intro track for people new to Django and an intermediate
+track for those who attended our previous
+&lt;a href="http://www.meetup.com/pythonsd/events/83842622/"&gt;Intro to Django workshop&lt;/a&gt;
+or have Django experience. Thanks to
+&lt;a href="http://cukerinteractive.com"&gt;Cuker&lt;/a&gt; for sponsoring today's event!&lt;/p&gt;
+&lt;p&gt;The code and slides …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="/images/2013-02-23_django-day.jpg"&gt;
+  &lt;img src="/images/2013-02-23_django-day.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Day workshop" /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We had about 30 people attend our
 &lt;a href="http://www.meetup.com/pythonsd/events/95751792/"&gt;Django Day workshop&lt;/a&gt;.
@@ -1731,7 +1920,10 @@ or have Django experience. Thanks to
 &lt;p&gt;In April we will be having a
 &lt;a href="http://www.meetup.com/pythonsd/events/94234812/"&gt;Python for Data Analysis&lt;/a&gt;
 workshop sponsored by Qualcomm's Open Source Portal group. Sign up before
-it fills up!&lt;/p&gt;</summary><category term="workshop"></category></entry><entry><title>A Year in Review</title><link href="http://pythonsd.org/a-year-in-review-2012.html" rel="alternate"></link><updated>2013-01-25T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-01-25:a-year-in-review-2012.html</id><summary type="html">&lt;p&gt;A little over a year ago on January 12, 2012, we had the first DjangoSD meeting
+it fills up!&lt;/p&gt;</content><category term="workshop"></category></entry><entry><title>A Year in Review</title><link href="http://www.pythonsd.org/a-year-in-review-2012.html" rel="alternate"></link><published>2013-01-25T00:00:00-08:00</published><updated>2013-01-25T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2013-01-25:/a-year-in-review-2012.html</id><summary type="html">&lt;p&gt;A little over a year ago on January 12, 2012, we had the first DjangoSD meeting
+in months but a grand total of four people including the organizer and host
+attended. Since the previous organizer Ted left for silicon valley, the group
+had become smaller and the meetups less frequent …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A little over a year ago on January 12, 2012, we had the first DjangoSD meeting
 in months but a grand total of four people including the organizer and host
 attended. Since the previous organizer Ted left for silicon valley, the group
 had become smaller and the meetups less frequent. Kendall, Bob, Michael and I
@@ -1758,8 +1950,16 @@ care about the San Diego tech scene and have been tremendous in supporting us.
 The Ansir Innovation Center and Co-Merge have been extremely generous letting us
 host our events at their locations. Most of all though, the attendees have been
 fantastic. I know for a fact that a few people have landed great jobs because
-of San Diego Python. Hopefully the next year is just as good as this one.&lt;/p&gt;</summary></entry><entry><title>January 2013 Meetup</title><link href="http://pythonsd.org/january-2013-meetup.html" rel="alternate"></link><updated>2013-01-24T00:00:00-08:00</updated><author><name>Trey Hunner</name></author><id>tag:pythonsd.org,2013-01-24:january-2013-meetup.html</id><summary type="html">&lt;p&gt;David Fischer presented on Python modules (PyPI, pip, and virtualenv) and Trey Hunner presented on &lt;a href="https://github.com/pythonsd/presentations/tree/2013-01-24-pdb/import%20pdb%3B%20pdb.set_trace()"&gt;pdb (The Python Debugger)&lt;/a&gt;&lt;/p&gt;</summary><category term="regular-meetup"></category><category term="social"></category></entry><entry><title>Intro to Python Workshop</title><link href="http://pythonsd.org/january-2013-intro-to-python.html" rel="alternate"></link><updated>2013-01-19T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-01-19:january-2013-intro-to-python.html</id><summary type="html">&lt;p&gt;&lt;a href="/static/images/2013-01-19_intro-to-python.jpg"&gt;
-  &lt;img src="/static/images/2013-01-19_intro-to-python.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Intro to Python workshop" /&gt;
+of San Diego Python. Hopefully the next year is just as good as this one.&lt;/p&gt;</content></entry><entry><title>January 2013 Meetup</title><link href="http://www.pythonsd.org/january-2013-meetup.html" rel="alternate"></link><published>2013-01-24T00:00:00-08:00</published><updated>2013-01-24T00:00:00-08:00</updated><author><name>Trey Hunner</name></author><id>tag:www.pythonsd.org,2013-01-24:/january-2013-meetup.html</id><summary type="html">&lt;p&gt;David Fischer presented on Python modules (PyPI, pip, and virtualenv) and Trey Hunner presented on &lt;a href="https://github.com/pythonsd/presentations/tree/2013-01-24-pdb/import%20pdb%3B%20pdb.set_trace()"&gt;pdb (The Python Debugger)&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;David Fischer presented on Python modules (PyPI, pip, and virtualenv) and Trey Hunner presented on &lt;a href="https://github.com/pythonsd/presentations/tree/2013-01-24-pdb/import%20pdb%3B%20pdb.set_trace()"&gt;pdb (The Python Debugger)&lt;/a&gt;&lt;/p&gt;</content><category term="regular-meetup"></category><category term="social"></category></entry><entry><title>Intro to Python Workshop</title><link href="http://www.pythonsd.org/january-2013-intro-to-python.html" rel="alternate"></link><published>2013-01-19T00:00:00-08:00</published><updated>2013-01-19T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2013-01-19:/january-2013-intro-to-python.html</id><summary type="html">&lt;p&gt;&lt;a href="/images/2013-01-19_intro-to-python.jpg"&gt;
+  &lt;img src="/images/2013-01-19_intro-to-python.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Intro to Python workshop" /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had over 30 people attend our
+&lt;a href="http://www.meetup.com/pythonsd/events/94994432/"&gt;Intro to Python&lt;/a&gt;
+workshop today. It was a full day of learning Python with food and drinks
+provided.
+Thanks to the Python Software Foundation for sponsoring the workshop and the
+Ansir Innovation Center for hosting. If you have feedback you would like to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="/images/2013-01-19_intro-to-python.jpg"&gt;
+  &lt;img src="/images/2013-01-19_intro-to-python.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Intro to Python workshop" /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We had over 30 people attend our
 &lt;a href="http://www.meetup.com/pythonsd/events/94994432/"&gt;Intro to Python&lt;/a&gt;
@@ -1778,8 +1978,15 @@ they fill up!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Here are the
 &lt;a href="http://www.slideshare.net/kendallchuang/intro-to-python-workshop-san-diego-ca-january-19-2013"&gt;slides&lt;/a&gt;,
 &lt;a href="http://www.meetup.com/pythonsd/photos/all_photos/?photoAlbumId=12733702"&gt;photos&lt;/a&gt;,
-and the &lt;a href="https://github.com/pythonsd/twitter-example"&gt;code&lt;/a&gt;.&lt;/p&gt;</summary><category term="workshop"></category></entry><entry><title>San Diego Python Gear</title><link href="http://pythonsd.org/san-diego-python-gear.html" rel="alternate"></link><updated>2012-12-20T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2012-12-20:san-diego-python-gear.html</id><summary type="html">&lt;p&gt;&lt;a href="/static/images/pythonsd-hat.jpg"&gt;
-  &lt;img src="/static/images/pythonsd-hat.jpg" style="width: 200px; margin: 10px;" class="img-polaroid pull-right" alt="San Diego Python hat" /&gt;
+and the &lt;a href="https://github.com/pythonsd/twitter-example"&gt;code&lt;/a&gt;.&lt;/p&gt;</content><category term="workshop"></category></entry><entry><title>San Diego Python Gear</title><link href="http://www.pythonsd.org/san-diego-python-gear.html" rel="alternate"></link><published>2012-12-20T00:00:00-08:00</published><updated>2012-12-20T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2012-12-20:/san-diego-python-gear.html</id><summary type="html">&lt;p&gt;&lt;a href="/images/pythonsd-hat.jpg"&gt;
+  &lt;img src="/images/pythonsd-hat.jpg" style="width: 200px; margin: 10px;" class="img-polaroid pull-right" alt="San Diego Python hat" /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We have hats!&lt;/p&gt;
+&lt;p&gt;Actually we have anything you can think of with our logo on it. I had our
+logo embroidery digitized (whatever that means) and it can be embroidered
+on just about anything. Just head down to Bowlers Depot (37th and El Cajon)
+and mention San Diego Python. You …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="/images/pythonsd-hat.jpg"&gt;
+  &lt;img src="/images/pythonsd-hat.jpg" style="width: 200px; margin: 10px;" class="img-polaroid pull-right" alt="San Diego Python hat" /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We have hats!&lt;/p&gt;
 &lt;p&gt;Actually we have anything you can think of with our logo on it. I had our
@@ -1795,4 +2002,4 @@ to change up the colors too. I think it would look good in pink!&lt;/p&gt;
 &lt;p&gt;San Diego Python does not make any money from this. It just gets our name
 out and spreads the Python love. If you want to do something else with our
 logo, high quality versions are on
-&lt;a href="https://github.com/pythonsd/logos"&gt;Github&lt;/a&gt;.&lt;/p&gt;</summary><category term="gear"></category></entry><entry><title>December 2012 Meetup</title><link href="http://pythonsd.org/december-2012-meetup.html" rel="alternate"></link><updated>2012-12-12T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2012-12-12:december-2012-meetup.html</id><summary type="html">&lt;p&gt;This was a more social meetup that took place to Regents Pizzeria.&lt;/p&gt;</summary><category term="regular-meetup"></category><category term="social"></category></entry><entry><title>November 2012 Meetup</title><link href="http://pythonsd.org/november-2012-meetup.html" rel="alternate"></link><updated>2012-11-29T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2012-11-29:november-2012-meetup.html</id><summary type="html">&lt;p&gt;Dave Cook presented on "Interfacing to C".&lt;/p&gt;</summary><category term="regular-meetup"></category><category term="social"></category></entry></feed>
+&lt;a href="https://github.com/pythonsd/logos"&gt;Github&lt;/a&gt;.&lt;/p&gt;</content><category term="gear"></category></entry><entry><title>December 2012 Meetup</title><link href="http://www.pythonsd.org/december-2012-meetup.html" rel="alternate"></link><published>2012-12-12T00:00:00-08:00</published><updated>2012-12-12T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2012-12-12:/december-2012-meetup.html</id><summary type="html">&lt;p&gt;This was a more social meetup that took place to Regents Pizzeria.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This was a more social meetup that took place to Regents Pizzeria.&lt;/p&gt;</content><category term="regular-meetup"></category><category term="social"></category></entry><entry><title>November 2012 Meetup</title><link href="http://www.pythonsd.org/november-2012-meetup.html" rel="alternate"></link><published>2012-11-29T00:00:00-08:00</published><updated>2012-11-29T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:www.pythonsd.org,2012-11-29:/november-2012-meetup.html</id><summary type="html">&lt;p&gt;Dave Cook presented on "Interfacing to C".&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dave Cook presented on "Interfacing to C".&lt;/p&gt;</content><category term="regular-meetup"></category><category term="social"></category></entry></feed>
